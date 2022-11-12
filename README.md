@@ -28,6 +28,6 @@ Eae sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-vieira-524435234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/viieirama/viierirama/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/viieirama/viieirama/blob/output/github-contribution-grid-snake.svg)
     
   <div/>
