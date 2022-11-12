@@ -1,8 +1,6 @@
 Já bebeu água?
 
-- 🔭 1/3 Fatec-AMS Desenvolvimento de Sistemas
-- 🤙 Contact-me e-mail --> mateusvfonseca08@gmail.com
-- ⚡ Basketball player 🏀
+Eae sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/viieirama">
@@ -29,4 +27,7 @@ Já bebeu água?
   <a href = "mailto:mateusvfonseca08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-vieira-524435234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+    ![Snake animation](https://github.com/viieirama/viierirama/blob/output/github-contribution-grid-snake.svg)
+    
   <div/>
