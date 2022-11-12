@@ -1,6 +1,6 @@
 Já bebeu água?
 
-Eae sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
+Sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/viieirama">
