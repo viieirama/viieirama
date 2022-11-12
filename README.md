@@ -30,4 +30,4 @@ Sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
   
   <div/>
         
-        ![Snake animation](https://github.com/viieirama/viieirama/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viieirama/viieirama/blob/output/github-contribution-grid-snake.svg)
