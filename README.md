@@ -16,8 +16,8 @@ Sou o Vieira estou no 1/3 Fatec-AMS Desenvolvimento de Sistemas
   <img align="center" alt="viieirama-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="viieirama-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="viieirama-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img align="right"  alt="viieirama" height="30" width="40" scr="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
 </div>
+   <img align="right"  alt="viieirama" height="30" width="40" scr="src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
 
   ##
   
